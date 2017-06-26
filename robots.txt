@@ -1,0 +1,27 @@
+# www.robotstxt.org/
+# http://code.google.com/web/controlcrawlindex/
+
+User-agent: *
+Disallow: /new/
+Disallow: /cgi-bin/
+# temp exclusions or old files search engines catch up with new structure
+Disallow: /Activities.php
+Disallow: /AboutUs.php
+Disallow: /Facilities.php
+Disallow: /gallery.php
+Disallow: /MessToday.php
+Disallow: /ActivitiesT.php
+Disallow: /ContactUs.php
+Disallow: /index1.php
+Disallow: /index.html
+Disallow: /usm.html
+Disallow: /USMAGM2012.php
+Disallow: /Events.php
+Disallow: /tabGallery.php
+Disallow: /tabFacilities.php
+Disallow: /tabAboutUs.php
+Disallow: /tabContactUs.php
+Disallow: /tabActivities.php
+Disallow: /tabEvents.php
+Disallow: /tabHome.php
+

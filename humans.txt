@@ -1,0 +1,36 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Human: Vincent J. Owens
+  Site: 
+  Twitter: @ddraigV
+  Location: Wales
+  
+  
+
+/* THANKS */
+  Names (& URL): Those behind HTML5 Boilerplate: html5boilerplate.com and JQuery: http://jquery.com/ 
+  Everyone who bothers to post advice and help on the web.
+  
+  Tester: Richard Farrar
+  Twitter: @rfarrar66
+  Location: Wales
+  
+  Tester: Dai Jones
+  Twitter:
+  Location: Wales
+  
+  Tester: John Williams
+  Twitter: @Wohnjilliams
+  Location: Wales
+
+  Commentator: Steve Tynan
+  Twitter: 
+  Location: Wales
+  
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery
+  IDE: Notepad++

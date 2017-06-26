@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eventslist>
+	<month>
+		<name>June 2017</name>
+		<event>
+			<date>Friday 9th</date>
+			<name>Mariners Lunch</name>
+		</event>
+		<event>
+			<date>Friday 16th</date>
+			<name>Waterloo Dinner</name>
+		</event>
+		<event>
+			<date>Friday 23rd</date>
+			<name>HMS Cardiff Reunion Dinner</name>
+		</event>		
+		<event>
+			<date>Sunday 25th</date>
+			<name>Sunday Lunch</name>
+		</event>		
+	</month>
+	<month>
+		<name>July 2017</name>
+		<event>
+			<date>Friday 7th</date>
+			<name>Joint Services Lunch</name>
+		</event>
+		<event>
+			<date>Friday 14th</date>
+			<name>Great War Dinner 100th anniversary Battle of Passchendaele</name>
+		</event>
+		<event>
+			<date>Sunday 30th</date>
+			<name>Sunday Lunch</name>
+		</event>	
+	</month>	
+	<month>
+		<name>August 2017</name>
+		<event>
+			<date>Friday 4th</date>
+			<name>Mariners Lunch</name>
+		</event>	
+		<event>
+			<date>Saturday 12th</date>
+			<name>Maplehaul Dinner (HMS Cambria)</name>
+		</event>
+		<event>
+			<date>Friday 18th</date>
+			<name>VJ Dinner</name>
+		</event>		
+		<event>
+			<date>Sunday 27th</date>
+			<name>Sunday Lunch</name>
+		</event>				
+	</month>			
+</eventslist>
