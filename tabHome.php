@@ -23,5 +23,5 @@ and where to find us.</p>
 
 <p class="style1">If you wish to get in contact with the 
 Mess please do not hesitate to <a href="#" id="tabHomeCall">call</a>.</p>
-<!-- <div  id="usmkicker"> <!--<p>The United Services Mess will hold its <strong>100th</strong> Annual Dinner on Friday 6th November 2015. <p>The 2017 Annual General Meeting will be held on Friday 19th May.</p></div> --> <br></br>
+<!-- --> <div  id="usmkicker"> <p>The United Services Mess will hold its <strong>104th</strong> Annual Dinner on Friday 8th November 2019. <p>The 2019 Annual General Meeting will be held on Friday 31st May.</p></div>  <br></br>
 </div>

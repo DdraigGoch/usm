@@ -16,14 +16,14 @@
       <br />
       <span class="pageName">AGM &amp Annual Events</span>
            
-	  <p>
-     <!--<strong>THE ANNUAL GENERAL MEETING WILL BE HELD ON FRIDAY THE 26th MAY 2017.</strong>&#160;&#160;&#160;&#160;&#160;&#160;</p> -->
+	  <p><!-- -->
+    <strong>THE ANNUAL GENERAL MEETING WILL BE HELD ON FRIDAY THE 31st MAY 2019 at 7pm.</strong>&#160;&#160;&#160;&#160;&#160;&#160;</p> 
       
 	  <p class="style1">The 
-      <span class="highlight">103rd Mess Annual Dinner</span> will take place
+      <span class="highlight">104th Mess Annual Dinner</span> will take place
       in Cardiff on
       <strong>
-        Friday 9th November 2018.
+        Friday 8th November 2019.
       </strong> <!--The principal guest will be a distinguished officer
       from the services.</p>-->
       <hr />
