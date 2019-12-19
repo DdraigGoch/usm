@@ -1,49 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <eventslist>
 	<month>
-		<name>October 2019</name>
+		<name>January 2020</name>
 		<event>
-			<date>Friday 4th</date>
-			<name>Mariners Lunch</name>
+			<date>Friday 17th</date>
+			<name>Steak Night, 7 for 7.30pm</name>
 		</event>
 		<event>
-			<date>Friday 11th</date>
-			<name>Welsh Guards, Bill Morris function</name>
+			<date>Sunday 26th</date>
+			<name>Sunday Lunch</name>
 		</event>
 		<event>
-			<date>Saturday 12th</date>
-			<name>Ghurkha Charity Lunch (George Royle)</name>
-		</event>
-		<event>
-			<date>Friday 18th</date>
-			<name>Trafalgar Dinner 7 for 7.30pm</name>
-		</event>
-		
+			<date>Friday 31st</date>
+			<name>Burns Night Supper 7 for 7.30pm</name>
+		</event>	
 	</month>
 	<month>
-		<name>November 2019</name>
+		<name>February 2020</name>
 		<event>
-			<date>Friday 8th</date>
-			<name>104th Annual Dinner at Angel Hotel 6.30 for 7pm</name>
+			<date>Saturday 1st</date>
+			<name>Wales v Italy ko 2.15pm</name>
 		</event>
 		<event>
-			<date>Sunday 11th</date>
-			<name>Remembrance Sunday</name>
+			<date>Friday 7th</date>
+			<name>Mariners Lunch 12 for 1.45pm</name>
 		</event>
 		<event>
-			<date>Saturday 30th</date>
-			<name>Wales v Barbarians ko 2.45pm</name>
+			<date>Saturday 22nd</date>
+			<name>Wales v France ko 4.45pm</name>
+		</event>
+			<event>
+			<date>Sunday 23rd</date>
+			<name>Sunday Lunch</name>
+		</event>					
+	</month>
+	<month>
+		<name>March 2020</name>
+		<event>
+			<date>Friday 6th</date>
+			<name>St David's Day Dinner 7 for 7.30pm</name>
+		</event>
+		<event>
+			<date>Saturday 14th</date>
+			<name>Wales v Scotland ko 2.15pm</name>
+		</event>
+		<event>
+			<date>Sunday 29th</date>
+			<name>Sunday Lunch</name>
 		</event>				
 	</month>
 	<month>
-		<name>December 2019</name>
+		<name>April 2020</name>
 		<event>
-			<date>Friday 6th</date>
-			<name>Mariners Lunch</name>
+			<date>Friday 3rd</date>
+			<name>Mariners Lunch 12 for 1.45pm</name>
 		</event>
 		<event>
-			<date>Friday 13th</date>
-			<name>Capt. Scott Soc. Christmas Lunch 12.30 for 1.30pm</name>
+			<date>Friday 17th</date>
+			<name>Falklands Dinner 7 for 7.30pm</name>
+		</event>
+		<event>
+			<date>Sunday 26th</date>
+			<name>Sunday Lunch</name>
 		</event>				
 	</month>			
 </eventslist>

@@ -19,12 +19,12 @@
 	  <p><!-- <strong>THE ANNUAL GENERAL MEETING WILL BE HELD ON FRIDAY THE 31st MAY 2019 at 7pm.</strong>&#160;&#160;&#160;&#160;&#160;&#160;</p>  -->
     
       
-	  <p class="style1">The 
+	 <!-- <p class="style1">The 
       <span class="highlight">104th Mess Annual Dinner</span> will take place
       in Cardiff on
       <strong>
         Friday 8th November 2019.
-      </strong> <!-- --> The principal guest will be Major General James Swift OBE (Assistant Chief of the General Staff).</p><!-- -->
+      </strong> The principal guest will be Major General James Swift OBE (Assistant Chief of the General Staff).</p> -->
       <hr />
       <p class="style1">
       <strong>NOTE:</strong>&#160;&#160;&#160;&#160;A LUNCH MENU IS
