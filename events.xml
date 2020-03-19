@@ -1,67 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <eventslist>
 	<month>
-		<name>January 2020</name>
+		<name>May 2020</name>
 		<event>
-			<date>Friday 17th</date>
-			<name>Steak Night, 7 for 7.30pm</name>
+			<date>TBA</date>
+			<name>Details to be announced.</name>
 		</event>
-		<event>
-			<date>Sunday 26th</date>
-			<name>Sunday Lunch</name>
-		</event>
-		<event>
-			<date>Friday 31st</date>
-			<name>Burns Night Supper 7 for 7.30pm</name>
-		</event>	
-	</month>
-	<month>
-		<name>February 2020</name>
-		<event>
-			<date>Saturday 1st</date>
-			<name>Wales v Italy ko 2.15pm</name>
-		</event>
-		<event>
-			<date>Friday 7th</date>
-			<name>Mariners Lunch 12 for 1.45pm</name>
-		</event>
-		<event>
-			<date>Saturday 22nd</date>
-			<name>Wales v France ko 4.45pm</name>
-		</event>
-			<event>
-			<date>Sunday 23rd</date>
-			<name>Sunday Lunch</name>
-		</event>					
-	</month>
-	<month>
-		<name>March 2020</name>
-		<event>
-			<date>Friday 6th</date>
-			<name>St David's Day Dinner 7 for 7.30pm</name>
-		</event>
-		<event>
-			<date>Saturday 14th</date>
-			<name>Wales v Scotland ko 2.15pm</name>
-		</event>
-		<event>
-			<date>Sunday 29th</date>
-			<name>Sunday Lunch</name>
-		</event>				
-	</month>
-	<month>
-		<name>April 2020</name>
-		<event>
-			<date>Friday 3rd</date>
-			<name>Mariners Lunch 12 for 1.45pm</name>
-		</event>
-		<event>
-			<date>Friday 17th</date>
-			<name>Falklands Dinner 7 for 7.30pm</name>
-		</event>
-		<event>
-			<date>Sunday 26th</date>
-			<name>Sunday Lunch</name>
-		</event>				
+				
 	</month>			
 </eventslist>
