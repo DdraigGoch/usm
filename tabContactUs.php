@@ -20,7 +20,7 @@ to Friday&nbsp; (1830 - 2200)<br />
 Tel Secretary: 02920 340798 (0900 - 1600, Monday -
 Thursday)<strong><br />
 E-MAIL:&nbsp;&nbsp;&nbsp;</strong> <a href=
-"mailto:unitedservicesmess@btconnect.com"><strong>unitedservicesmess@btconnect.com</strong></a></p>
+"mailto:unitedservicesmess@gmail.com"><strong>unitedservicesmess@gmail.com</strong></a></p>
 
 <td class="subHeader">How to Find Us</td>
 

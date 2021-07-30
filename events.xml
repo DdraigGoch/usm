@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <eventslist>
 	<month>
-		<name>May 2020</name>
+		<name>August</name>
+		<event>
+			<date>Monday 2nd</date>
+			<name>The Mess is reopening.</name>
+		</event>
+		<event>
+			<date>Friday 6th</date>
+			<name>Mariners' Lunch</name>
+		</event>			
+	</month>
+	<month>
+		<name>Further Events</name>
 		<event>
 			<date>TBA</date>
-			<name>Details to be announced.</name>
-		</event>
-				
+			<name></name>
+		</event>		
 	</month>			
 </eventslist>
