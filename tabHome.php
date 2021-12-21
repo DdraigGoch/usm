@@ -23,7 +23,7 @@ and where to find us.</p>
 
 <p class="style1">If you wish to get in contact with the 
 Mess please <!-- do not hesitate to --> <a href="#" id="tabHomeCall">email</a>. Please note new email address.</p>
-<!-- <p>The 2019 Annual General Meeting will be held on Friday 31st May.</p> --> <div  id="usmkicker"> <p>The Mess is reopening on Monday August 2nd 2021.</p>
+<!-- --> <p>The 2022 Annual General Meeting will be held on Friday 27th May.</p> <!-- --><!--  <div  id="usmkicker"> <p>The Mess is reopening on Monday August 2nd 2021.</p>
 <p>The first event will be the Mariners’ Lunch on Friday 6th August, the Mess will be open from 12pm, and the Lunch will start at 1.30pm <br>Please contact the mess by email if you are interested.</p>
-</div>  </br><!-- --> 
+</div>  </br> --> 
 </div>

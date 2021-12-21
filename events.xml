@@ -1,15 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <eventslist>
 	<month>
-		<name>August</name>
+		<name>January</name>
 		<event>
-			<date>Monday 2nd</date>
-			<name>The Mess is reopening.</name>
+			<date>Friday 28th</date>
+			<name>Burns Night Supper  - 7 for 7.30pm</name>
+		</event>		
+	</month>	
+	<month>
+		<name>February</name>
+		<event>
+			<date>Fri 4th </date>
+			<name>Mariners Lunch - 12 for 1.45pm </name>
 		</event>
 		<event>
-			<date>Friday 6th</date>
-			<name>Mariners' Lunch</name>
+			<date>Sat 12th </date>
+			<name>Wales v Scotland ko 2.15pm</name>
 		</event>			
+	</month>
+	<month>
+		<name>March</name>
+		<event>
+			<date>Fri 4th </date>
+			<name>St Davids Dinner 7 for 7.30pm</name>
+		</event>
+		<event>
+			<date>Fri 11th</date>
+			<name>Wales v France ko 8pm</name>
+		</event>
+		<event>
+			<date>Sat 19th </date>
+			<name>Wales v Italy ko 2.15pm</name>
+		</event>			
+	</month>
+	<month>
+		<name>April</name>
+		<event>
+			<date>Fri 1st</date>
+			<name>Mariners Lunch 12 for 1.45pm</name>
+		</event>
+		<event>
+			<date>Fri 22nd</date>
+			<name>Falklands Dinner 7 for 7.30pm </name>
+		</event>		
+	</month>
+	<month>
+		<name>May</name>
+		<event>
+			<date>Friday 27th</date>
+			<name>Annual General Meeting</name>
+		</event>		
+	</month>
+	<month>
+		<name>November</name>
+		<event>
+			<date>Friday 11th</date>
+			<name>Annual Dinner Angel Hotel</name>
+		</event>		
 	</month>
 	<month>
 		<name>Further Events</name>

@@ -16,15 +16,15 @@
       <br />
       <span class="pageName">AGM &amp Annual Events</span>
            
-	  <p><!-- <strong>THE ANNUAL GENERAL MEETING WILL BE HELD ON FRIDAY THE 31st MAY 2019 at 7pm.</strong>&#160;&#160;&#160;&#160;&#160;&#160;</p>  -->
+	  <p><strong>THE ANNUAL GENERAL MEETING WILL BE HELD ON FRIDAY THE 27th MAY 2022.</strong>&#160;&#160;&#160;&#160;&#160;&#160;</p> 
     
       
-	 <!-- <p class="style1">The 
-      <span class="highlight">104th Mess Annual Dinner</span> will take place
-      in Cardiff on
+	 <!-- --> <p class="style1">The 
+      <span class="highlight">105th Mess Annual Dinner</span> will take place
+      in Cardiff at the Angel Hotel on
       <strong>
-        Friday 8th November 2019.
-      </strong> The principal guest will be Major General James Swift OBE (Assistant Chief of the General Staff).</p> -->
+        Friday 11th November 2022.
+      </strong> <!--The principal guest will be Major General James Swift OBE (Assistant Chief of the General Staff). --></p> 
       <hr />
       <p class="style1">
       <strong>NOTE:</strong>&#160;&#160;&#160;&#160;A LUNCH MENU IS

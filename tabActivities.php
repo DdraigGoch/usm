@@ -31,21 +31,20 @@
 	<br /> <br /> <br /> <br />
 	<p align="justify"><span class=	"subHeader style2">Societies</span></p>
 	<ul class = "style1">
-		<li><strong>Welsh Guards Association</strong> - Meets 1st Monday of
+		<li><strong>Welsh Guards Association</strong> - Meets 7pm 1st Monday of
 		each month.</li>
-		<li><strong>RN Association</strong> - Meets 1st Monday of
+		<li><strong>RN Association</strong> - Meets 7pm 1st Monday of
 		each month.</li>
-		<li><strong>IMarEST (Marine Engineers)</strong> - Meets 1st Monday of
-		each month.</li>
-		<li><strong>Mess Skittles Social Evening</strong> - Meets 4th Tues Oct-April.</li>
-		<li><strong>Royal British Legion</strong> - Meets 1st Wednesday of
-		each month.</li>
-		<li><strong>HMS CAMBRIA Senior Rates</strong> - Meets 2nd Thursday
+		<li><strong>Captain Scott Society</strong> - Meets 6.30pm 1st Monday 
 		of each month.</li>
-		<li><strong>Captain Scott Society</strong> - Meets 2nd Thursday
+		<li><strong>100 Club draw</strong> - 8pm 1st Monday of each month.</li>
+		<!-- <li><strong>IMarEST (Marine Engineers)</strong> - Meets 1st Monday of
+		each month.</li>
+		<li><strong>Mess Skittles Social Evening</strong> - Meets 4th Tues Oct-April.</li> -->
+		<li><strong>Royal British Legion</strong> - Meets 12.30pm 1st Wednesday of
+		each month.</li>
+		<li><strong>HMS CAMBRIA Senior Rates</strong> - Meets 1pm 2nd Thursday
 		of each month.</li>
-		<li><strong>Mariners Lunch</strong> - Held of a Friday every second
-		month.</li>
 	</ul>
 	     <hr /> <p class="style1">
       <strong>NOTE:</strong>&#160;&#160;&#160;&#160;A LUNCH MENU IS
